@@ -1,4 +1,4 @@
-import logo from "./logo.png";
+import logo from "./revenuelogo.jpeg";
 import login_bg from "./login-bg.png";
 import profile from "./hari1.jpg";
 import dashboard from "./Dashboard.png";
